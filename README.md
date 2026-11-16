@@ -1,8 +1,8 @@
-# Supplementary Materials: An Eye-Tracking Study of Textbook Reading
+# Supplementary Materials: Faster reading, greater interest? Faster reading, greater interest? Аn eye-tracking study of popularisation techniques in textbook passages
 
 This repository contains supplementary materials for the research article:
 
-**An eye-tracking study of textbook reading: The impact of popularisation techniques on interest and processing**
+**Faster reading, greater interest? Аn eye-tracking study of popularisation techniques in textbook passages.**
 
 ## About the Study
 
